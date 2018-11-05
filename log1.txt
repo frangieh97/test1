@@ -1,0 +1,12 @@
+commit 4886472632a7b968fe2e07a7af49f6006dba5aa0 (HEAD -> master)
+Author: joseph <abouzouz97@gmail.com>
+Date:   Mon Nov 5 09:51:12 2018 -0500
+
+    1st column
+
+commit fab17649e1cc785fe8c82f551e35906ba8815cae (origin/master)
+Author: joseph <abouzouz97@gmail.com>
+Date:   Mon Nov 5 09:38:16 2018 -0500
+
+    original version
+
